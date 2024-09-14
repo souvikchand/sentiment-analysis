@@ -28,11 +28,27 @@ dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity
 
 
 <h2>Visualization</h2>
-  <ul>
+  <ul style="list-style-type:none">
     <li>wordcloud</li>
     <li><img src="images/wordcloud.PNG" alt="wordcloud"></li>
-    <li>word frequency</li>
   </ul>
+  <ul style="list-style-type:none">
+    <li> word frequencies</li>
+    <li><img src="images/freq1.PNG" alt=""></li>
+    <li><img src="images/freq train2.PNG" alt=""></li>
+    <li><img src="images/freq test1.PNG" alt=""></li>
+    <li><img src="images/freq test2.PNG" alt=""></li>
+  </ul>
+  <ul style="list-style-type:none">
+    <li>NN model summary</li>
+    <li><img src="images/model seq1.PNG" alt=""></li>
+    <li>Confusion Matrix</li>
+    <li><img src="images/confusion matrix.PNG" alt=""></li>
+    <li>Loss graph</li>
+    <li><img src="images/loss graph.PNG" alt=""></li>
+  </ul>
+
+  <p><h2>Thank You</h2></p>
 
 
 
