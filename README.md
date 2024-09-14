@@ -28,27 +28,25 @@ dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity
 
 
 <h2>Visualization</h2>
-  <ul style="list-style-type:none">
-    <li>wordcloud</li>
-    <li><img src="images/wordcloud.PNG" alt="wordcloud"></li>
-  </ul>
-  <ul style="list-style-type:none">
-    <li> word frequencies</li>
-    <li><img src="images/freq1.PNG" alt=""></li>
-    <li><img src="images/freq train2.PNG" alt=""></li>
-    <li><img src="images/freq test1.PNG" alt=""></li>
-    <li><img src="images/freq test2.PNG" alt=""></li>
-  </ul>
-  <ul style="list-style-type:none">
-    <li>NN model summary</li>
-    <li><img src="images/model seq1.PNG" alt=""></li>
-    <li>Confusion Matrix</li>
-    <li><img src="images/confusion matrix.PNG" alt=""></li>
-  </ul>
-  <p>Loss graph</p>
-  <img src="images/loss graph.PNG" alt="">
+<p>wordcloud</p>
+<img src="images/wordcloud.PNG" alt="wordcloud">
 
-  <p><h2>Thank You</h2></p>
+<p> word frequencies</p>
+<img src="images/freq1.PNG" alt="">
+<img src="images/freq train2.PNG" alt="">
+<img src="images/freq test1.PNG" alt="">
+<img src="images/freq test2.PNG" alt="">
+
+<p>NN model summary</p>
+<img src="images/model seq1.PNG" alt="">
+
+<p>Confusion Matrix</p>
+<img src="images/confusion matrix.PNG" alt="">
+
+<p>Loss graph</p>
+<img src="images/loss graph.PNG" alt="">
+
+<p><h2>Thank You</h2></p>
 
 
 
