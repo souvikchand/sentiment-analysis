@@ -2,32 +2,36 @@
 sentiment analysis on tweeter 74k tweets
 dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis"></a>
 <h2>Tasks</h2>
-<li>
-  <ol>drop NaN values</ol>
-  <ol>drop Duplicates</ol>
-  <ol>solve fast typings</ol>
-  <ol>handle emoji</ol>
-  <ol>remove links and mentions</ol>
-  <ol>remove punctuation and special charecters</ol>
-  <ol>lowercasing</ol>
-  <ol>remove stop word</ol>
-  <ol>need corefference</ol>
-  <ol>Tokenization</ol> 
-</li>
+<ol>
+  <li>drop NaN values</li>
+  <li>drop Duplicates</li>
+  <li>solve fast typings</li>
+  <li>handle emoji</li>
+  <li>remove links and mentions</li>
+  <li>remove punctuation and special charecters</li>
+  <li>lowercasing</li>
+  <li>remove stop word</li>
+  <li>need corefference</li>
+  <li>Tokenization</li> 
+</ol>
 
 <br>
 
-<h2>Task that planned but not done
-  <ol>solve spelling errors: <strong>due to time required</strong></ol>
-  <ol>synomyme remove: <strong>due to time required</strong></ol>
-  <ol>try name-entity-recognition</ol>
-</h2>
+<h2>Task that planned but not done</h2>
+<ul>
+  <li>solve spelling errors: <strong>due to time required</strong></li>
+  <li>synomyme remove: <strong>due to time required</strong></li>
+  <li>try name-entity-recognition</li>
+  <li>detect language</li>
+  <li>stemming</li>
+</ul>
+
 
 <h2>Visualization
-  <li>
-    <ul>wordcloud</ul>
-    <ul>word frequency</ul>
-  </li>
+  <ul>
+    <li>wordcloud</li>
+    <li>word frequency</li>
+  </ul>
 
 </h2>
 
@@ -35,5 +39,4 @@ dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity
 
 
 
-detect language. if possible translate and back
-Stemming
+
