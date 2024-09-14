@@ -27,13 +27,15 @@ dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity
 </ul>
 
 
-<h2>Visualization
+<h2>Visualization</h2>
   <ul>
     <li>wordcloud</li>
+    <li><img src="images/wordcloud.PNG" alt="wordcloud"></li>
     <li>word frequency</li>
   </ul>
 
-</h2>
+
+
 
 
 
