@@ -44,9 +44,9 @@ dataset URL -- <a href="https://www.kaggle.com/datasets/jp797498e/twitter-entity
     <li><img src="images/model seq1.PNG" alt=""></li>
     <li>Confusion Matrix</li>
     <li><img src="images/confusion matrix.PNG" alt=""></li>
-    <li>Loss graph</li>
-    <li><img src="images/loss graph.PNG" alt=""></li>
   </ul>
+  <p>Loss graph</p>
+  <img src="images/loss graph.PNG" alt="">
 
   <p><h2>Thank You</h2></p>
 
